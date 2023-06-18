@@ -1,5 +1,5 @@
 const img = document.querySelector(".picture");
-const change = ["cat.jpg", "cat1.jpg", "cat2.jpg", "cat4.jpg", "cat5.jpg","cat3.jpg","cat6.jpg","cat7.jpg"];
+const change = ["C.jpg","c1.jpg","cat1.jpg","cat2.jpg","cat3.jpg","cat5.jpg","cat4.jpg"];
 
 var i = 0;
 
@@ -36,7 +36,7 @@ function setImage() {
 
 // function changeImage(){
 //     var img = document.querySelector('.picture');
-//     img.src = 'cat1.jpg'
+//     img.src = 'catcat.jpg'
 
 // }
 // function change(){
